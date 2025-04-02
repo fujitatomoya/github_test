@@ -60,7 +60,7 @@ body:
       value: |
         <details><summary>ros2 doc --report</summary>
 
-        ```shell
+        ```console
         <COPY OUTPUT HERE>
         ```
         </details>
