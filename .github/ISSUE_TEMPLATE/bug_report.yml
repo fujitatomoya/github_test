@@ -57,11 +57,11 @@ body:
       description: |
         It can help us knowing the details of your ROS environment.
         Please use the command `ros2 doctor --report` and copy paste its output here.
-      placeholder: |
+      value: |
         <details><summary>ros2 doc --report</summary>
 
         ```shell
-        COPY OUTPUT HERE
+        <COPY OUTPUT HERE>
         ```
         </details>
       render: Formatted
