@@ -64,7 +64,6 @@ body:
         <COPY OUTPUT HERE>
         ```
         </details>
-      render: Formatted
     validations:
       required: false
   - type: textarea
