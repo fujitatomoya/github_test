@@ -19,6 +19,12 @@ If no, just leave this section empty.
 If yes, please explain how user-experience changes with this PF.
 -->
 
+### Did you use Generative AI?
+
+<!--
+If this PR was generated using Generative AI, specify the model (e.g., GitHub Copilot v3.2)
+-->
+
 ### Additional Information
 
 <!--
